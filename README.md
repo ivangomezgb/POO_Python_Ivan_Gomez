@@ -1,8 +1,8 @@
-# 🎬 Sistema de Gestión de Contenido Multimedia (POO)
+# Sistema de Gestión de Contenido Multimedia (POO)
 
 <p align="center">
-  <b>Evidencia de Desempeño: Arquitectura Modular y Pilares POO</b><br>
-  <i>Tecnólogo en Desarrollo de Software</i>
+  <b>GESTION DE CONTENIDO MULTIMEDIA + Pilares POO</b><br>
+  <i>Ivan Gomez</i>
 </p>
 
 ---
