@@ -1,4 +1,4 @@
-# Sistema de Gestión de Contenido Multimedia (POO)
+#     Sistema de Gestión de Contenido Multimedia (POO)
 
 <p align="center">
   <b>GESTION DE CONTENIDO MULTIMEDIA + Pilares POO</b><br>
@@ -7,14 +7,14 @@
 
 ---
 
-## 📌 Menú Interactivo de Navegación
+## 📌 Estructura del Proyecto
 * 📁 [Estructura del Proyecto](#-estructura-del-proyecto
 *  [CRUD de la Clase Padre]
 *  [Los 4 Pilares de la POO Aplicados]
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📁 Breve Explicacion del Proyecto
 
 <details>
 <summary>📦 <b>class_padre_contenid.py</b> <i>(Clic para expandir)</i></summary>
