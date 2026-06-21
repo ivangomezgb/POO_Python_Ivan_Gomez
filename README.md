@@ -46,16 +46,3 @@ El punto de entrada del programa (Orquestador).
 * Instancia los objetos reales en la memoria.
 * Ejecuta las pruebas controladas del CRUD, Encapsulamiento y Polimorfismo.
 </details>
-
----
-
-## ⚙️ Explicación del CRUD Comercial
-
-Despliega cada sección para observar la lógica de operaciones implementada sobre la lista global:
-
-<details>
-<summary>➕ <b>C - Create (Crear)</b></summary>
-
-```python
-def crear_contenido(self, titulo:str, duracion:str, artista:str):
-    lista_contenido.append(self)
