@@ -8,16 +8,13 @@
 ---
 
 ## 📌 Menú Interactivo de Navegación
-* 📁 [Estructura del Proyecto](#-estructura-del-proyecto)
-* ⚙️ [Explicación del CRUD Comercial](#%EF%B8%8F-explicación-del-crud-comercial)
-* 🌿 [Los 4 Pilares de la POO Aplicados](#-los-4-pilares-de-the-poo-aplicados)
-* 🚀 [Guía de Ejecución Rápida](#-guía-de-ejecución-rápida)
+* 📁 [Estructura del Proyecto](#-estructura-del-proyecto
+*  [CRUD de la Clase Padre]
+*  [Los 4 Pilares de la POO Aplicados]
 
 ---
 
 ## 📁 Estructura del Proyecto
-
-Haz clic en cada archivo para conocer su responsabilidad dentro de la arquitectura modular:
 
 <details>
 <summary>📦 <b>class_padre_contenid.py</b> <i>(Clic para expandir)</i></summary>
