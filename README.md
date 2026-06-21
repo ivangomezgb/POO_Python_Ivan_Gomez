@@ -20,11 +20,11 @@
 <summary>📦 <b>class_padre_contenid.py</b> <i>(Clic para expandir)</i></summary>
 <br>
 
-Es el núcleo del software. Define los cimientos de la aplicación:
+Es el núcleo del software. Define los conocimientos de la aplicación:
 * Contiene la **Clase Base** `ContenidoMultimedia`.
 * Inicializa los atributos comunes: `titulo`, `duracion` y `artista`.
-* Aloja la **lista global en memoria** (`lista_contenido = []`) que simula nuestra base de datos.
-* Implementa las funciones nativas de reproducción y pausa.
+* Aloja la **lista global en memoria** (`lista_contenido = []`) es una lista que simula una base de datos como si fuera un archivo "JSON".
+* Implementa unas funciones de reproducción y pausa.
 </details>
 
 <details>
