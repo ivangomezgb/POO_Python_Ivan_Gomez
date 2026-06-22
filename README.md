@@ -40,7 +40,7 @@ Contiene la especialización del negocio mediante la creación de sub-tipos de c
 </details>
 
 <details>
-<summary>📦 <b>main.py</b> <i>(Clic para expandir)</i></summary>
+<summary>📦 <b>testing.py</b> <i>(Clic para expandir)</i></summary>
 <br>
 
 El punto de entrada del programa (Orquestador).
