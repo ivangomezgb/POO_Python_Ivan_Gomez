@@ -1,5 +1,7 @@
-#     Sistema de Gestión de Contenido Multimedia (POO)
 
+<P align="center">
+# Sistema de Gestión de Contenido Multimedia (POO)
+</p>
 <p align="center">
   <b>GESTION DE CONTENIDO MULTIMEDIA + Pilares POO</b><br>
   <i>Ivan Gomez</i>
@@ -8,7 +10,7 @@
 ---
 
 ## 📌 Estructura del Proyecto
-* 📁 [Estructura del Proyecto](#-estructura-del-proyecto
+* 📁 [Estructura del Proyecto](#-estructura-del-proyecto)
 *  [CRUD de la Clase Padre]
 *  [Los 4 Pilares de la POO Aplicados]
 

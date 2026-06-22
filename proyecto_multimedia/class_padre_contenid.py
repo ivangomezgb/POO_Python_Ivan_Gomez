@@ -37,7 +37,7 @@ class ContenidoMultimedia:
         # Remueve la instancia de la lista global si existe.
         if self in lista_contenido:
             lista_contenido.remove(self)
-            print(f"🗑️ Éxito: '{self.titulo}' ha sido eliminado del sistema.")
+            print(f" 🗑️ Éxito: '{self.titulo}' ha sido eliminado del sistema.")
         else:
             print(f"❌ Advertencia: '{self.titulo}' no se encuentra en el sistema.")
             
@@ -52,3 +52,5 @@ class ContenidoMultimedia:
     def ver_contenidos(self):  
         # Método base para ser sobreescrito por las clases hijas.
         print(f"Contenido Multimedia General: {self.titulo}")
+        
+        

@@ -15,7 +15,7 @@ class Cancion(ContenidoMultimedia):
         # ENCAPSULAMIENTO: Atributo estrictamente privado
         self.__duracion_privada = duracion 
         
-    # Polimorfismo sobre el método de reproducción
+    # Polimorfismo con el método de reproducción
     def reproducir(self):
         print(f"🎧 [...AUDIO...] Sonando en tus audífonos: {self.titulo} - {self.artista} (Álbum: {self.album})")
 
@@ -47,7 +47,7 @@ class Podcast(ContenidoMultimedia):
         print(f"🎙️ [...PODCAST...] Al aire: {self.titulo} - Episodio N°{self.num_episodios}")
                     
     def mostrar_creditos(self):
-        # Transforma la lista de invitados a un texto amigable separado por comas
+        # Transforma la lista de invitados a un texto bonito separado por comas
         texto_invitados = ", ".join(self.invitados) if isinstance(self.invitados, list) else self.invitados
         print(f"👥 Hoy nos acompaña: {texto_invitados}")
         
@@ -55,3 +55,4 @@ class Podcast(ContenidoMultimedia):
     def ver_contenidos(self):
         texto_invitados = ", ".join(self.invitados) if isinstance(self.invitados, list) else self.invitados
         print(f"📻 [...Podcast...] '{self.titulo}' (Ep. {self.num_episodios}) | Invitados: {texto_invitados}")
+        

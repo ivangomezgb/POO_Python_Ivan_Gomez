@@ -41,7 +41,7 @@ if __name__ == "__main__":
     print("\n=== 🔄 POLIMORFISMO podcast ===")
     podcast_1 = Podcast("El Podcast de la Vida", "60:00", "Juan Pérez", 10, ["María Gómez", "Carlos López"])
 
-    # Agrupamos las instancias de diferentes clases en una sola colección
+    # Se agrupa las instancias de diferentes clases en una sola colección
     playlist_mix = [cancion_1, podcast_1]
 
     # El bucle invoca la misma firma de método, pero la salida se adapta al objeto ejecutor
@@ -49,3 +49,4 @@ if __name__ == "__main__":
         elemento.ver_contenidos()
         elemento.reproducir()
         print("-" * 60)
+        
